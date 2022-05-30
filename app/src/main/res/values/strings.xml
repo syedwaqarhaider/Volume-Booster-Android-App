@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Iftikhar-Super volume Booster</string>
+    <string name="general_warning">Warning: High volume might harm your speakers and hearing.\n USE THIS AT YOUR OWN RISK.\n Beware while boosting over 40%, specially with music.</string>
+    <!-- Options preference screen -->
+    <string name="menu_autostart">Enable Boost on startup</string>
+    <string name="menu_autostart_summary">Boost audio on device startup. Boost must be activated before turrning off the device.</string>
+    <string name="menu_show_volume_control">View volume control</string>
+    <string name="menu_notification_bar">Notification bar</string>
+    <string name="menu_non_uniform_boost">Non uniform boost</string>
+    <string name="menu_non_uniform_boost_summary">This mode handles low and high frequencies, improving voice clarity and may reduce the risk of speaker destruction. Has no effect on devices over 4.4+.</string>
+    <string name="menu_maximum_boost">Maximum allowed boost</string>
+    <string name="menu_maximum_boost_summary">Be careful with boosts above 40.</string>
+
+    <!-- Warning dialog -->
+    <string name="warning_title">Warning</string>
+    <string name="warningText">Playing audio at a high sound can impair your hearing, damage the speakers or your device.\n\nIf you find the audio to be very noisy or distorted, you might be using a very high volume.\n\nDo you agree to use this app under your own risk?</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Config Dialog -->
+    <string name="help">Help</string>
+    <string name="settings">Settings</string>
+    <string name="more_apps">More Apps</string>
+    <string name="privacytext">Privacy</string>
+    <string name="close">Close</string>
+    <string name="help_title">Help</string>
+    <string name="helpText">Q: What\'s this business with risk to the speakers?\n
+A: Overdriving small speakers can damage or destroy them. Keeping the boost to 30%-40% or lower should help, but it is not possible to test this app on all devices, and YOU ARE USING IT AT YOUR OWN RISK. If you get screechy sound, lower the boost immediately.\n\n
+
+Q: How can I prevent myself from accidentally setting too high a boost?\n
+A: Press the tools icon, tap on "Settings", and choose "Maximum allowed boost".\n\n
+
+Q: How do I launch Volume Booster when I am in another application?\n
+A: On Kindle Fire, you can tap on the left part of the status bar to pull down the notifications and then tap on "Volume Booster". In many apps the statusbar can be shown by tapping anywhere on the screen. On other devices, you can swipe down from the notification bar or hold the SEARCH button.\n\n
+
+Q: Could I get a volume adjustment bar beside the boost bar?\n
+A: Yes: just press the tools icon in Speaker Boost, tap on Settings, and there will be an option you can put a checkmark beside.</string>
+    <string name="option_title">Configuration</string>
+
+    <!-- Notification -->
+
+    <string name="notification_boost_on">Booster enabled</string>
+    <string name="notification_boost_off">Booster disabled</string>
+
+    <!-- Booster service -->
+
+    <string name="try_later">The audio service is unavailable, please try again later.</string>
+    <string name="incompatible">This app is incompatible with your device.</string>
+
+    <!-- Rate my app -->
+
+    <string name="rate_app_title">Rate Volume Booster!</string>
+    <string name="rate_app_message">If you have enjoyed this app, please take a moment to rate it! It won-t take up much of your time. Thanks for your support!</string>
+    <string name="rate_app_yes">Rate now!</string>
+    <string name="rate_app_no">No, thanks</string>
+    <string name="rate_app_later">Rate Later</string>
+
+    <string name="privacyLink" translatable="false">https://elitevpns.blogspot.com/p/privacy-policy-elite-vpn.html</string>
+    <string name="moreappLink" translatable="false">More App</string>
+
+    <!--Live Ads-->
+<!--        <string name="app_id">ca-app-pub-3088196195932250~7660614975</string>-->
+<!--        <string name="banner_id">ca-app-pub-3088196195932250/6686444653</string>-->
+<!--        <string name="intersitial_id">ca-app-pub-3088196195932250/4770534235</string>-->
+<!--        <string name="native_id">ca-app-pub-3088196195932250/8937009954</string>-->
+
+        <string name="fb_native">400270334386802_400789067668262</string>
+        <string name="fb_banner">400270334386802_400786351001867</string>
+        <string name="fb_intersitial">400270334386802_400270537720115</string>
+
+    <!--Test Ads-->
+<!--    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+<!--    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="intersitial_id">ca-app-pub-3940256099942544/1033173712</string>-->
+<!--    <string name="native_id">ca-app-pub-3940256099942544/2247696110</string>-->
+
+
+
+</resources>

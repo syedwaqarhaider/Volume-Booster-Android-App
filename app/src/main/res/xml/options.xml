@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:title="@string/menu_autostart"
+        android:key="autoStart"
+        android:summary="@string/menu_autostart_summary"
+        android:defaultValue="true" />
+
+    <CheckBoxPreference
+        android:title="@string/menu_show_volume_control"
+        android:key="volumeControl"
+        android:defaultValue="true" />
+
+    <ListPreference
+        android:entries="@array/notification_labels"
+        android:title="@string/menu_notification_bar"
+        android:key="notification"
+        android:defaultValue="2"
+        android:entryValues="@array/notifications" />
+
+    <ListPreference
+        android:entries="@array/maximum_boost_labels"
+        android:title="@string/menu_maximum_boost"
+        android:key="maximumBoost2"
+        android:summary="@string/menu_maximum_boost_summary"
+        android:defaultValue="60"
+        android:entryValues="@array/maximum_boosts" />
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="shape"
+        android:summary="@string/menu_non_uniform_boost_summary"
+        android:title="@string/menu_non_uniform_boost" />
+
+</PreferenceScreen>

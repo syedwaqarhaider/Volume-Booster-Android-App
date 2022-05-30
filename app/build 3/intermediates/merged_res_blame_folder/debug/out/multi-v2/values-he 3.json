@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-he/values-he.xml",
+            "map": [
+                {
+                    "source": "/Users/macbook/.gradle/caches/transforms-2/files-2.1/c773b75e18090520cfa33f217573ba35/jetified-facebook-android-sdk-4.0.0/res/values-he/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "164,256,371,466,522,591,671,743,815,895",
+                        "endColumns": "91,114,94,55,68,79,71,71,79,97",
+                        "endOffsets": "251,366,461,517,586,666,738,810,890,988"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,147,262,357,413,482,562,634,706,786",
+                        "endColumns": "91,114,94,55,68,79,71,71,79,97",
+                        "endOffsets": "142,257,352,408,477,557,629,701,781,879"
+                    }
+                }
+            ]
+        }
+    ]
+}

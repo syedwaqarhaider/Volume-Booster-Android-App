@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable_button_style.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable/button_style.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable_big_logo.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable/big_logo.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_volume_mute_black_24dp.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-mdpi/ic_volume_mute_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_settings_black_24dp.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-hdpi/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/xml_options.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/xml/options.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_volume_up_black_24dp.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-mdpi/ic_volume_up_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-mdpi_seekbar_progress.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-mdpi/seekbar_progress.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_volume_up_black_24dp.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-xxhdpi/ic_volume_up_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_volume_mute_black_24dp.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-xhdpi/ic_volume_mute_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable_ic_settings_black.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable/ic_settings_black.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-mdpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/generated/res/pngs/debug/drawable-mdpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_volume.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-mdpi/ic_volume.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_settings_black_24dp.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-xhdpi/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-mdpi/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-mdpi_button_gray.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-mdpi/button_gray.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_volume_up_black_24dp.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-xxxhdpi/ic_volume_up_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_volume_up_black_24dp.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-hdpi/ic_volume_up_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-mdpi_seekbar_thumb.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-mdpi/seekbar_thumb.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/layout_native_ad_layout.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/layout/native_ad_layout.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-mdpi_seekbar_background.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-mdpi/seekbar_background.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-hdpi_scrubber_control_pressed_holo.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-hdpi/scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_volume_mute_black_24dp.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-hdpi/ic_volume_mute_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_volume_mute_black_24dp.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-xxxhdpi/ic_volume_mute_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_settings_black_24dp.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-mdpi/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_settings_black_24dp.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-xxxhdpi/ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/layout_ad_attribution_layout.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/layout/ad_attribution_layout.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/layout_activity_settings.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable_big.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable/big.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-mdpi_playstore.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-mdpi/playstore.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-mdpi_seekbar_style.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-mdpi/seekbar_style.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/layout_activity_main_nad.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/layout/activity_main_nad.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_phone.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-mdpi/ic_phone.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/layout_activity_web_view.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/layout/activity_web_view.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_volume_mute_black_24dp.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-xxhdpi/ic_volume_mute_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-hdpi_scrubber_control_normal_holo.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-hdpi/scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-mdpi_button_green.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-mdpi/button_green.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_palette.xml.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-mdpi/ic_palette.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_volume_up_black_24dp.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-xhdpi/ic_volume_up_black_24dp.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_settings_black_24dp.png.flat",
+        "source": "/Users/macbook/Desktop/Current Project/SuperVolumeBooster/app/src/main/res/drawable-xxhdpi/ic_settings_black_24dp.png"
+    }
+]

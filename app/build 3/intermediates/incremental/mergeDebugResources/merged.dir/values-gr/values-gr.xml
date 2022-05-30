@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rta_dialog_cancel">��������</string>
+    <string name="rta_dialog_message">�� ��� ������ ���� � �������� �� ������ �� �� �������������;��� �� ����� �������� ��� ��� �����.��������� ��� ��� ����������!</string>
+    <string name="rta_dialog_no">���,���������</string>
+    <string name="rta_dialog_ok">������������ ����</string>
+    <string name="rta_dialog_title">������������ ��� ��������</string>
+</resources>

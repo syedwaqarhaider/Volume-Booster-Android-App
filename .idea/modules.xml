@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SuperVolumeBooster.iml" filepath="$PROJECT_DIR$/.idea/modules/SuperVolumeBooster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SuperVolumeBooster.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SuperVolumeBooster.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/equalizer/SuperVolumeBooster.equalizer.iml" filepath="$PROJECT_DIR$/.idea/modules/equalizer/SuperVolumeBooster.equalizer.iml" />
+    </modules>
+  </component>
+</project>

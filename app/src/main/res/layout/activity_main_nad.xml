@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Main.BoosterMainDialog"
+    android:gravity="center_horizontal"
+    android:padding="10dp"
+    android:background="@color/background_color">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/stop"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/app_name"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_baseline_cancel_24"
+            app:tint="@color/icon_tint"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="DuplicateIds" />
+        <ImageView
+            android:id="@+id/play"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/app_name"
+            android:scaleType="fitXY"
+            android:layout_marginLeft="20dp"
+            android:src="@drawable/ic_baseline_play_circle_24"
+            android:onClick="play_PauseMusic"
+            app:tint="@color/icon_tint"
+            app:layout_constraintStart_toEndOf="@id/stop"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="DuplicateIds" />
+
+        <ImageView
+            android:id="@+id/icon2"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/app_name"
+            android:padding="3.5dp"
+            android:scaleType="fitXY"
+            android:onClick="showMenu"
+            android:src="@drawable/ic_baseline_menu_24"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:tint="@color/icon_tint"
+            tools:ignore="OnClick" />
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout"
+        android:layout_marginTop="40dp">
+
+        <com.sdsmdg.harjot.crollerTest.Croller
+            android:id="@+id/sb_boost"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_centerInParent="true"
+            app:back_circle_color="#272727"
+            app:indicator_color="@color/green"
+            app:indicator_width="4"
+            app:is_continuous="false"
+            app:label=" "
+            app:label_color="@color/black"
+            app:main_circle_color="@color/black"
+            app:max="100"
+            app:progress_primary_color="@color/green"
+            app:progress_secondary_color="@color/light_black"
+            app:start_offset="45"
+            app:progress="70"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="20dp">
+
+        </com.sdsmdg.harjot.crollerTest.Croller>
+
+
+
+    </RelativeLayout>
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/anim_sound"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:lottie_fileName="sound_wave.json"
+        app:lottie_loop="true"
+        app:lottie_autoPlay="true"
+        android:layout_marginTop="30dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/tv_boost">
+
+    </TextView>
+    <eu.gsottbauer.equalizerview.EqualizerView
+
+        android:layout_height="30dp"
+        android:layout_width="match_parent"
+        android:id="@+id/equalizer_view">
+
+    </eu.gsottbauer.equalizerview.EqualizerView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/anim_sound"
+        android:layout_marginTop="40dp">
+
+        <ImageButton
+            android:id="@+id/btnMute"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_marginEnd="15dp"
+            android:background="@drawable/button_gray"
+            android:padding="10dp"
+            android:onClick="muteBoster"
+            android:src="@drawable/ic_baseline_volume_mute_24"
+            android:textColor="@color/white"
+            android:textSize="10sp" />
+
+        <Button
+            android:id="@+id/btnThirty"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_marginEnd="15dp"
+            android:background="@drawable/button_gray"
+            android:padding="10dp"
+            android:text="30%"
+            android:onClick="boostThirty"
+            android:textColor="@color/white"
+            android:textSize="10sp" />
+
+        <Button
+            android:id="@+id/btnSixty"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_marginEnd="15dp"
+            android:background="@drawable/button_gray"
+            android:padding="10dp"
+            android:text="60%"
+            android:onClick="boostSixty"
+            android:textColor="@color/white"
+            android:textSize="10sp" />
+
+        <Button
+            android:id="@+id/btnHundred"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:background="@drawable/button_gray"
+            android:padding="10dp"
+            android:text="100%"
+            android:onClick="boostHundred"
+            android:textColor="@color/white"
+            android:textSize="10sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_volume"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="50dp">
+
+        <ImageView
+            android:id="@+id/icon_volume"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_margin="12dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/app_name"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_volume"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:tint="@color/white" />
+
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/sb_volume"
+            android:paddingStart="0dp"
+            android:paddingEnd="12dp"
+            android:progress="20"
+            android:progressDrawable="@drawable/seekbar_style"
+            android:splitTrack="false"
+            android:thumb="@drawable/seekbar_thumb" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/tv_volume">
+
+        </TextView>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/sb_boost">
+
+    </TextView>
+
+</LinearLayout>
